@@ -1,0 +1,26 @@
+.cherry-font {
+  font-family: 'Cherry Bomb One', cursive;
+}
+
+.fredoka-font {
+  font-family: 'Fredoka', sans-serif;
+}
+
+.concert-font {
+  font-family: 'Concert One', sans-serif;
+}
+
+.titan-font {
+  font-family: 'Titan One', sans-serif;
+}
+
+.logo {
+  background-image: url('images/Logo.png'); /* 画像のパスを指定 */
+  background-size: contain; /* 画像を要素全体にフィットさせる */
+  background-repeat: no-repeat;
+  background-position: left; /* 画像を中央に配置 */
+  color: transparent; /* 文字を透明にして画像を表示 */
+  font-size: 3rem; /* フォントサイズの調整 */
+  /* text-align: center; 中央に配置 */
+  height: 80px;
+}
